@@ -4,4 +4,5 @@
 
 ## API client libraries
 
-[CSharp](https://github.com/multrees/api-client-csharp)
+- [CSharp](https://github.com/multrees/api-client-csharp)
+- [Golang](https://github.com/multrees/api-client-go)
